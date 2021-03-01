@@ -1,0 +1,16 @@
+{
+  "name": "trabalho-uninter-app",
+  "version": "1.0.0",
+  "description": "trabalho uninter rede neural",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adson Zortéa",
+  "license": "ISC",
+  "devDependencies": {
+    "synaptic": "^1.1.4",
+    "underscore": "^1.10.2"
+  },
+  "dependencies": {}
+}
